@@ -1,0 +1,16 @@
+name
+Graphe Test
+nr_vertices
+4
+nr_edges
+3
+neighborhoods
+2
+2,3
+0,1
+1
+weights
+3
+6
+2
+9

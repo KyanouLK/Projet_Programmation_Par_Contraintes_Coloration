@@ -1,0 +1,12 @@
+name
+Graph 2 vertices 1 edge
+nr_vertices
+2
+nr_edges
+1
+neighborhoods
+1
+0
+weights
+3
+6

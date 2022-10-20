@@ -1,0 +1,21 @@
+{
+    "cmdline-data": [
+        "WB={}",
+        "WM={}",
+        "WVCP_SEARCH_STRATEGY=VERTICES_GENERIC",
+        "WVCP_SEARCH_RESTART=RESTART_NONE",
+        "WVCP_SEARCH_VARIABLES_COLORS=WVCPSV(INPUT_ORDER)",
+        "WVCP_SEARCH_DOMAIN_COLORS=INDOMAIN_MIN",
+        "WVCP_SEARCH_VARIABLES_WEIGHTS=WVCPSV(INPUT_ORDER)",
+        "WVCP_SEARCH_DOMAIN_WEIGHTTS=INDOMAIN_MAX",
+        "WVCP_SEARCH_VARIABLES_VERTICES=WVCPSV(FIRST_FAIL)",
+        "WVCP_SEARCH_DOMAIN_VERTICES=INDOMAIN_SPLIT"
+    ],
+    "compiler-statistics": true,
+    "solver-statistics": true,
+    "intermediate-solutions": true,
+    "output-time": true,
+    "solver": "com.google.or-tools",
+    "time-limit": 3600000,
+    "parallel": 1
+}
